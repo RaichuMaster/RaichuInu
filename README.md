@@ -4,6 +4,8 @@ Raichu (ライチュウ Raichū) is a Pokémon evolved from Pikachu. It has a hi
 
 🔒 New audit completed for 
 @raichuinu
+
+https://github.com/Coinsult/solidity/blob/main/Coinsult_Raichu_Inu_0x28...1ed8_Audit.pdf
  
 🐦Twitter:
 https://twitter.com/raichuinu
