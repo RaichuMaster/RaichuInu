@@ -1,2 +1,3 @@
 # RaichuInu
-$RINU High Reflection Power
+
+Raichu (ライチュウ Raichū) is a Pokémon evolved from Pikachu. It has a high electrical power.
